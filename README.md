@@ -11,6 +11,8 @@ Cloud: Azure(WebApp Service)
 
 Url:  https://tarundhimanecom.azurewebsites.net
 
+admin account: admin@gmail.com  , pass: admin@123
+
 This is the Home page here user can but products and navigate based on the categories
 ![image](https://user-images.githubusercontent.com/53346586/185146251-d09ee972-ebf8-4904-8da5-2390271db464.png)
 
